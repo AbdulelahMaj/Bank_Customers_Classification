@@ -3,7 +3,7 @@
 
 > ## Introduction
 > 
->> The purpose of the model I plan to build is to predict whether an individual customer will churn from the bank (or not) given various data points and information from a historical database.
+>> The purpose of the model I plan to build is to predict whether an individual customer will churn from the bank (or not) given various data points and information from a historical data.
 >>
 >>So in the future, when we have a customer, we can predict if this person will leave or not. This will help with the decision making framework for whether a customer will leave or not.
 >>
