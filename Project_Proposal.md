@@ -51,6 +51,7 @@
  >> - Matplotlib
  >> - Pandas
  >> - sklearn
+ >> - Google Colab
 
 > ## Conclusion 
 > 
