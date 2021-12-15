@@ -37,4 +37,4 @@ Logistic regression after oversampling training and validation set metrics:
 |Recall: 0.6950          |Recall: 0.7149      |
 |F1: 0.6950              |F1: 0.6945          |
 
-### In conclusion after we did the oversampling, the accuracy has been reduced from 79% to 63%
+### In conclusion, after we did the oversampling, the accuracy has been reduced from 78% to 67%
