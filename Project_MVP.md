@@ -20,7 +20,7 @@ Logistic regression before oversampling training and validation set metrics:
 
 
 ### Figure 2
-##### The following figure is our baseline model before oversampling: Logistic Regression.
+##### The following figure is our confusion matrix for the baseline model: Logistic Regression.
 ![baseline](https://user-images.githubusercontent.com/93079224/146169511-250b9a02-5f0a-41fb-b48f-0ec0faf1e6d3.png)
 
 #### The score of our baseline was actually good with an accuracy of: 0.7869
