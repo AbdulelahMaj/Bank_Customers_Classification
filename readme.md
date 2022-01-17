@@ -1,4 +1,4 @@
-# Project Report:
+# Bank Customers Churn Prediction:
 
 ## Abstract
 The main goal of this project is to create a classification model to predict a customer will leave the bank or not.
